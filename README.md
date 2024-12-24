@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nidhia 
+- 👋 Hi, I’m @Nidhipa 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on Machine learning and GenAI

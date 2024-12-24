@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nidhi-Antony
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning AI&ML
-- 💞️ I’m looking to collaborate on machine learning and genAI
+- 👋 Hi, I’m @Nidhia 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning AI & ML
+- 💞️ I’m looking to collaborate on Machine learning and GenAI
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
